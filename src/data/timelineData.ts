@@ -53,7 +53,7 @@ export const timelineSections: TimelineSection[] = [
     ],
     bullets: [
       "Premium NFL streaming ad inventory distributed through Magnite",
-      "NFL audience targeting built from official league data inside the Genius Sports Fan Graph",
+      "NFL audience targeting built from deterministic fan data inside the Genius Fan Graph",
     ],
     marketScale: "$1.8B spend per day on SSP/DSP programmatic buys",
     geniusMoment:
