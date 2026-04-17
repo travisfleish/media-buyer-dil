@@ -1,14 +1,5 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
+# Site is private / confidential — do not crawl, index, or use for training.
+# Compliant search engines, AI crawlers, and bots should not fetch any URL.
 
 User-agent: *
-Allow: /
+Disallow: /
